@@ -1,0 +1,41 @@
+h1 {
+  font-family: 'Mooli';
+}
+
+body {
+  background-color: grey;
+}
+
+.App {
+  text-align: center;
+}
+
+.cars{
+  border-style: none;
+  background-color: lightskyblue;
+  box-shadow: 0px 0px 10px 5px lightseagreen;
+  font-family: 'Mooli';
+  font-weight: bold;
+  width: 400px;
+  margin: 20px auto;
+  padding: 1px;
+  border-radius: 15px;
+}
+/* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+
+.souligner{
+  font-size: small;
+  color: red;
+}
+
+.button{
+  font-family: 'Mooli';
+  color: white;
+  background-color:rgb(0, 0, 0);
+  box-shadow: 0px 0px 10px 5px lightseagreen;
+  border-style: none;
+  border-radius: 60px;
+  width: 100px;
+  height: 30px;
+
+}
